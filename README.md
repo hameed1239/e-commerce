@@ -30,7 +30,7 @@
   You can contribute to this project by creating issues on this repository
 
   ## Test
-  Follow the instructions ![here] (https://drive.google.com/file/d/1I0u1v-_W4wBL7iX_pjA0xUms3QM7z_y1/view) and ![here] (https://drive.google.com/file/d/1536NbvBwUM3_WcwWcNEqEDcAKV71zQN1/view) for testing procedures
+  Follow the instructions [here] (https://drive.google.com/file/d/1I0u1v-_W4wBL7iX_pjA0xUms3QM7z_y1/view) and ![here] (https://drive.google.com/file/d/1536NbvBwUM3_WcwWcNEqEDcAKV71zQN1/view) for testing procedures
                                       
   ![Screenshot](screen1.JPG)
   ![Screenshot](screen2.JPG)
